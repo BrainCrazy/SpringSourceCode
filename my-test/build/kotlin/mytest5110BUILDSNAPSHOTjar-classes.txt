@@ -1,0 +1,1 @@
+E:\spring-framework-5.1.x\my-test\build\classes\java\main\com\wqf\AnnotationMain.class;E:\spring-framework-5.1.x\my-test\build\classes\java\main\com\wqf\AppConfig.class;E:\spring-framework-5.1.x\my-test\build\classes\java\main\com\wqf\dao\IndexDao.class;E:\spring-framework-5.1.x\my-test\build\classes\java\main\com\wqf\dao\thread\DaoThread.class

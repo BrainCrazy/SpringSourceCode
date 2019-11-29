@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: my-test
+Automatic-Module-Name: my.test
+Implementation-Version: 5.1.10.BUILD-SNAPSHOT
+Created-By: 1.8.0_92 (Oracle Corporation)
+
